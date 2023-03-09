@@ -1,0 +1,26 @@
+{
+  "name": "glitchprueba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neizert/glitchprueba.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neizert/glitchprueba/issues"
+  },
+  "homepage": "https://github.com/Neizert/glitchprueba#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.1",
+    "socket.io": "^4.6.1"
+  }
+}
